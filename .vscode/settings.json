@@ -1,0 +1,10 @@
+{
+	"C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+	"gtest-adapter.debugConfig": [
+		"Linux Unit Testing"
+		, "Windows Unit Testing"
+		// , "GDB Debugging"
+	],
+	"gtest-adapter.supportLocation": true
+
+}
